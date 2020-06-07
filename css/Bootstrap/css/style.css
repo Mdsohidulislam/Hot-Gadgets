@@ -1,0 +1,56 @@
+ul li
+{
+    list-style-type: none;
+}
+.container
+{
+    margin-bottom: 50px;
+}
+.carousel-item img
+{
+    width: 100%;
+}
+.caro
+{
+    background-image: linear-gradient(red);
+}
+.buy
+{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.price
+{
+    color: rgb(255, 0, 255);
+}
+.cp
+{
+    padding: 20px 40px;
+}
+.carousel-item
+{
+    padding: 20px 40px;
+}
+.seeall
+{
+    color:  #ffcc00;
+}
+.brd
+{
+    background-color: white;
+    height: 200px;
+    width: 180px;
+    padding: 30px 10px;
+    border-radius: 10px;
+}
+.brd
+{
+    box-shadow: 2px 2px 10px gray;
+}
+.brdd img{
+    width: 100%;
+}
+ 
